@@ -1,0 +1,4 @@
+#Wed Aug 01 19:22:27 CDT 2018
+base.0=/home/ms/Downloads/OCI/deeplearning11-augumented/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/home/ms/Downloads/OCI/deeplearning11-augumented/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/8/classes.dex

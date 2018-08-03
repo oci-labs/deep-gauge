@@ -1,0 +1,31 @@
+psi nan
+psi 0
+psi 1
+psi 10
+psi 10 5
+psi 11
+psi 11 5
+psi 12
+psi 12 5
+psi 13
+psi 13 5
+psi 14
+psi 14 5
+psi 15
+psi 1 5
+psi 2
+psi 2 5
+psi 3
+psi 3 5
+psi 4
+psi 4 5
+psi 5
+psi 5 5
+psi 6
+psi 6 5
+psi 7
+psi 7 5
+psi 8
+psi 8 5
+psi 9
+psi 9 5
